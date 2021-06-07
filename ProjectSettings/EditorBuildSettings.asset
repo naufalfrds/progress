@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CTspine.unity
+    guid: 7f150c05f190237448fbbd13275ca6ed
+  - enabled: 1
+    path: Assets/Scenes/Spine.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/about.unity
+    guid: b62cb265ba6568c47b7f55ef3933dfbf
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c3069adb528602e42b4f5785a29bc18d
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 3fcd29db8bed1f64598fd91ec60bca65
+  - enabled: 1
+    path: Assets/Scenes/gambar1.unity
+    guid: 679e31daa92a17245ab5dddd22568faf
+  - enabled: 1
+    path: Assets/Scenes/gambar2.unity
+    guid: 9acec144b45a15c4abc20417dc787b74
+  - enabled: 1
+    path: Assets/Scenes/gambar3.unity
+    guid: 999db155f5a010b478b13f11cab4ae4b
+  - enabled: 1
+    path: Assets/Scenes/gambar4.unity
+    guid: 97a50ba477854f14290a50a74bab2b61
+  - enabled: 1
+    path: Assets/Scenes/gambar5.unity
+    guid: 3d59afaa22245d342a8778d8cba90150
+  - enabled: 1
+    path: Assets/Scenes/gambar7.unity
+    guid: ab078acb9b46c7244850141b6ac6ce8b
+  - enabled: 1
+    path: Assets/Scenes/gambar6.unity
+    guid: 339429b11caa21641b4a8d3c75753234
+  - enabled: 1
+    path: Assets/Scenes/gambar8.unity
+    guid: bfa20b0857677c649a620fc4998ecab3
+  - enabled: 1
+    path: Assets/Scenes/gambar9.unity
+    guid: 0ac89fd48d5651549b5925956354a743
+  - enabled: 1
+    path: Assets/Scenes/gambar10.unity
+    guid: 7ab4849c2bfc0474b9942fdeaf2764d1
+  - enabled: 1
+    path: Assets/Scenes/gambar12.unity
+    guid: 6ada7524b08eca144acc737c724e6c1d
+  - enabled: 1
+    path: Assets/Scenes/gambar13.unity
+    guid: 3521975f2a9a38544af8af4a260294dd
+  - enabled: 1
+    path: Assets/Scenes/gambar14.unity
+    guid: 7aeb0d7a5fe36aa4f8d4664508d24ee2
+  - enabled: 1
+    path: Assets/Scenes/gambar15.unity
+    guid: aa2e12e651e5a514b96bcb627c66f9fa
+  - enabled: 1
+    path: Assets/Scenes/gambar16.unity
+    guid: 1df340ee2c080724fac1317766ddac48
+  - enabled: 1
+    path: Assets/Scenes/gambar17.unity
+    guid: 09a3ffca2b082ec41b74157ea552e156
+  - enabled: 1
+    path: Assets/Scenes/gambar18.unity
+    guid: d5f2978ee3ae4a342b01286c92bc983e
+  - enabled: 1
+    path: Assets/Scenes/gambar19.unity
+    guid: bf3092212616a704ca0fb61142262e77
+  - enabled: 1
+    path: Assets/Scenes/gambar20.unity
+    guid: 9d8f40692cf37d24ca2b20c1cdc49542
+  - enabled: 1
+    path: Assets/Scenes/gambar21.unity
+    guid: 89164ad3bd158ff4eb1f7b18e0e1477f
+  - enabled: 1
+    path: Assets/Scenes/gambar22.unity
+    guid: bc6b033c904bd1941b6b8a88bb185a28
+  - enabled: 1
+    path: Assets/Scenes/gambar23.unity
+    guid: 6505f966fb271e34d8efa0213543038a
+  - enabled: 1
+    path: Assets/Scenes/gambar24.unity
+    guid: 19b436c94a7e8e746b34a3994ba6f4f9
+  - enabled: 1
+    path: Assets/Scenes/gambar25.unity
+    guid: f53ebcbadfab849438188261ea924bc2
+  - enabled: 1
+    path: Assets/Scenes/gambar26.unity
+    guid: 250e719071c9ceb458972b2007b01d0a
+  - enabled: 1
+    path: Assets/Scenes/gambar27.unity
+    guid: 8e3d1bf54a582684ebc0f41e3d1eb53a
+  m_configObjects: {}

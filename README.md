@@ -14,6 +14,6 @@ Muhammad Naufal F. 1402017103
 2. Fadli islamianto - 1402017048
 3. Fiqri Taufiq -1402018039
 # Cara pemasangan aplikasi
-1. Download file Spine Surgery.exe
+1. Download file apk ctspine.rar
 2. Klik 2 file yang telah di download
 3. Tanpa menunggu lama, aplikasi spine surgery berhasil diinstall dan bisa langsung digunakan
